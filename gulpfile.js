@@ -1,5 +1,5 @@
 var gulp=require('gulp');
-var connect=require('gulp-connect');//run the dev server -------------athi frank
+var connect=require('gulp-connect');//run the dev server --ravi chandran
 var open=require('gulp-open'); //open url in web browser
 var browserify=require('browserify');//bundles js
 var reactify=require('reactify');//transform jsx to js
